@@ -10,7 +10,9 @@ export const Container = styled.div`
     top: 0;
     z-index: 0;
     overflow: hidden;
-    background-image: linear-gradient(to right top, #fa79f9, #e662f8, #ce4bf8, #b234f9, #901dfb, #901dfb, #901dfb, #901dfb, #b234f9, #ce4bf8, #e662f8, #fa79f9);
+    background-image: linear-gradient(to right bottom, #01bf71, #2bca79, #41d581, #53e089, #64eb91, #64eb91, #64eb91, #64eb91, #53e089, #41d581, #2bca79, #01bf71);
+
+    //background-image: linear-gradient(to right top, #fa79f9, #e662f8, #ce4bf8, #b234f9, #901dfb, #901dfb, #901dfb, #901dfb, #b234f9, #ce4bf8, #e662f8, #fa79f9);
 `;
 
 export const FormWrap = styled.div`
