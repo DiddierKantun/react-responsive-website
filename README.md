@@ -4,7 +4,7 @@
 [![Forks](https://img.shields.io/github/forks/DiddierKantun/react-responsive-website)](https://github.com/DiddierKantun/react-responsive-website/network/members)
 [![Stargazers](https://img.shields.io/github/stars/DiddierKantun/react-responsive-website)](https://github.com/DiddierKantun/react-responsive-website/stargazers)
 [![Issues](https://img.shields.io/github/issues/DiddierKantun/react-responsive-website)](https://github.com/DiddierKantun/react-responsive-website/issues)
-[![MIT License](https://img.shields.io/github/license/DiddierKantun/react-responsive-website)](https://github.com/DiddierKantun/react-responsive-website/blob/main/LICENSE.txt)
+[![MIT License](https://img.shields.io/github/license/DiddierKantun/react-responsive-website)](https://github.com/DiddierKantun/react-responsive-website/blob/main/LICENSE.md)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/diddierkant%C3%BAnquintal/)
 
 
