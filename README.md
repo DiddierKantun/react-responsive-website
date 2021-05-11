@@ -37,11 +37,10 @@
 * [About the project](#about-the-project)
    * [Built with](#table-of-contents)
 * [Getting-started](#installation)
-   * [Prerequisites](#stdin)
-   * [Installation](#local-files)
-* [Usage](#usage)
-* [Licence](#stdin)
-* [Author](#Author)
+   * [Prerequisites](#prerequisites)
+   * [Installation](#installation)
+* [Licence](#license)
+* [Author](#author)
 
 <br />
 
@@ -50,9 +49,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
+This is a responsive website with a formal design which can be used to show information.
 
 
 ### Built With
