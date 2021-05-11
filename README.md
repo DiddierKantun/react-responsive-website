@@ -47,7 +47,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Screenshot](https://github.com/DiddierKantun/screenshots-and-pictures/blob/main/react-responsive-website/screenshot.JPG)](https://github.com/DiddierKantun/screenshots-and-pictures/blob/main/react-responsive-website/screenshot.JPG)
 
 This is a responsive website with a formal design which can be used to show information.
 
